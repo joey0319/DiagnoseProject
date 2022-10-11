@@ -49,6 +49,9 @@
 <br>
 ![메인](./readmeimg/main.gif)
 
+<br>
+![메인](./readmeimg/main2.gif)
+
 
 
 
