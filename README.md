@@ -47,7 +47,7 @@
 ```
 
 <br>
-![메인](././readmeimg/main.gif)
+![메인](./readmeimg/main2.gif)
 
 <br>
 
