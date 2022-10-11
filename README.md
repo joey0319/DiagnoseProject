@@ -47,7 +47,7 @@
 ```
 
 <br>
-![메인](./readmeimg/main.gif)
+![메인](././readmeimg/main.gif)
 
 <br>
 
@@ -62,7 +62,7 @@
 ```
 
 <br>
-![진단하기](./readmeimg/diagnose.gif)
+![진단하기](././readmeimg/diagnose.gif)
 
 <br>
 
@@ -75,8 +75,8 @@
 ```
 
 <br>
-![커뮤 1](./readmeimg/community1.gif)
-![커뮤 2](./readmeimg/community2.gif)
+![커뮤 1](././readmeimg/community1.gif)
+![커뮤 2](././readmeimg/community2.gif)
 
 ### **커뮤니티페이지(실종찾기)**
 
@@ -86,10 +86,10 @@
 
 <br>
 
-![실종](./readmeimg/lost.png)
+![실종](././readmeimg/lost.png)
 
 <br>
-![실종찾기](./readmeimg/createlost.png)
+![실종찾기](././readmeimg/createlost.png)
 
 ### **응급처치페이지**
 
@@ -98,7 +98,7 @@
 ```
 
 <br>
-![응급처치](./readmeimg/firstaid.gif)
+![응급처치](././readmeimg/firstaid.gif)
 
 
 
@@ -109,7 +109,7 @@
 ```
 
 <br>
-![마이페이지](./readmeimg/mypage.gif)
+![마이페이지](././readmeimg/mypage.gif)
 
 ## 🐶🐱 산출물
 
