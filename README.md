@@ -47,11 +47,11 @@
 ```
 
 <br>
-![메인](./readmeimg/메인.gif)
+![메인](./readmeimg/main.gif)
 
 <br>
 
-![메인2](./readmeimg/메인2.gif)
+![메인2](./readmeimg/main2.gif)
 
 
 
@@ -62,11 +62,11 @@
 ```
 
 <br>
-![진단하기](./readmeimg/진단하기.gif)
+![진단하기](./readmeimg/diagnose.gif)
 
 <br>
 
-![진단내역](./readmeimg/진단내역보기.gif)
+![진단내역](./readmeimg/diagnoselist.gif)
 
 ### **커뮤니티페이지(자랑하기)**
 
@@ -75,8 +75,8 @@
 ```
 
 <br>
-![커뮤 1](./readmeimg/커뮤1.gif)
-![커뮤 2](./readmeimg/커뮤2.gif)
+![커뮤 1](./readmeimg/community1.gif)
+![커뮤 2](./readmeimg/community2.gif)
 
 ### **커뮤니티페이지(실종찾기)**
 
@@ -86,10 +86,10 @@
 
 <br>
 
-![실종](./readmeimg/커뮤니티.png)
+![실종](./readmeimg/lost.png)
 
 <br>
-![실종찾기](./readmeimg/실종글작성.png)
+![실종찾기](./readmeimg/createlost.png)
 
 ### **응급처치페이지**
 
@@ -98,7 +98,7 @@
 ```
 
 <br>
-![응급처치](./readmeimg/응급처치.gif)
+![응급처치](./readmeimg/firstaid.gif)
 
 
 
@@ -109,7 +109,7 @@
 ```
 
 <br>
-![마이페이지](./readmeimg/마이페이지.gif)
+![마이페이지](./readmeimg/mypage.gif)
 
 ## 🐶🐱 산출물
 
