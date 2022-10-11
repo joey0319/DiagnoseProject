@@ -57,7 +57,7 @@
 ```
 
 <br>
-![진단하기](./readmeImg/진단하기.gif)
+![진단하기](readmeImg/진단하기.gif)
 
 <br>
 
