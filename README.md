@@ -47,11 +47,9 @@
 ```
 
 <br>
-![메인](./readmeimg/main2.gif)
+![메인](./readmeimg/main.gif)
 
-<br>
 
-![메인2](./readmeimg/main2.gif)
 
 
 
