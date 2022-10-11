@@ -1,0 +1,100 @@
+
+#lottie-text {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    text-align: center;
+    width: 300px;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#picture {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    color: black;
+    background: #F5C6AA;
+    margin: 20px;
+}
+
+#diagnoseBtn {
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+#loading-style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#search-lottie {
+    width: 30%;
+}
+
+#search-text {
+    font-size: 40px;
+    margin-right: 50px;
+}
+
+#diagnose-result {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#result-item {
+    margin-bottom: 30px;
+    width: 700px;
+}
+
+#result-paper {
+    width: 150px;
+}
+
+#btn10 {
+    width: 200px;
+    height: 70px;
+    font-size: 28px;
+}
+
+#result-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+#treat-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#treat {
+    width: 140px;
+}
+
+#result-box {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}

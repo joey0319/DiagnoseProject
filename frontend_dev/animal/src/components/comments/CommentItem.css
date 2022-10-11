@@ -1,0 +1,18 @@
+.comments-content {
+  /* border: 1px solid grey; */
+  margin-bottom: 25px;
+  padding: 12px;
+  border-radius: 12px;
+  box-shadow: 0 5px 6px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 9%);
+}
+
+.comments-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.comments-btn {
+  display: flex;
+  justify-content: flex-end;
+  height: 40px;
+}

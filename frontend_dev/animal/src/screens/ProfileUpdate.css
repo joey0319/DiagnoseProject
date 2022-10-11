@@ -1,0 +1,51 @@
+
+#update-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#profileupdate-input {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+#update-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#update-lottie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#updateBtns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#updateBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 15px;
+  font-size: 23px;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+  color: black;
+  background: #F5C6AA;
+  margin-top: 10px;
+}

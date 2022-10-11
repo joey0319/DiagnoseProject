@@ -1,0 +1,15 @@
+#showpet-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#carousel-wrap {
+  text-align: -webkit-center;
+}
+
+.content-description {
+  margin-top: 12px;
+}

@@ -1,0 +1,13 @@
+#card {
+  position: relative;
+  margin-right: 20px;
+}
+.img-container {
+  width: 360px;
+}
+.card-thumnail {
+  width: 360px;
+}
+.card-description {
+  width: 360px;
+}

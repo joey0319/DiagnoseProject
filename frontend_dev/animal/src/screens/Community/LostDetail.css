@@ -1,0 +1,50 @@
+.lost {
+  display: flex;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  align-content: center;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.find {
+  display: flex;
+  background-color: #e2e2e2;
+  opacity: 40%;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  align-content: center;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.lost-imgwrapper {
+}
+
+.lost-img {
+  width: 45%;
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.lost-content {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.content-item {
+  margin: 0;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.lost-isfound {
+  width: 25px;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+}

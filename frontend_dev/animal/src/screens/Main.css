@@ -1,0 +1,59 @@
+
+
+#main-box1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+#carousel {
+  margin-top: 40px;
+  width: 1000px;
+}
+
+#main-lottie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#description-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#description-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#img-1 {
+  width: 500px;
+}
+
+#tmpInner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#tmpBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#description-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}

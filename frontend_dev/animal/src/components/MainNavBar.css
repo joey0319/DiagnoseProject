@@ -1,0 +1,25 @@
+.container-sector {
+  width: 100%;
+  justify-content: center;
+  position: relative;
+  display: flex;
+}
+
+#basic-navbar-nav {
+  justify-content: space-between;
+}
+
+.right-nav {
+  display: flex;
+  font-size: 20px;
+}
+
+.left-nav {
+  display: flex;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+.main_img {
+  width: 60px;
+}
